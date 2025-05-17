@@ -1,0 +1,27 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Nesse projeto construiremos uma API REST com Node, Express e Knex.",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaywernke/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shaywernke/blog/issues"
+  },
+  "homepage": "https://github.com/shaywernke/blog#readme"
+}
